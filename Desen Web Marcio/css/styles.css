@@ -81,8 +81,9 @@ footer {
 
 .logo {
     width: 150px;
-    padding-left: 40%;
-    padding-top: 15px; 
+    margin: 0 auto;
+    padding-top: 15px;
+    display: block;
 }
 
 /* nav vertical inicio */

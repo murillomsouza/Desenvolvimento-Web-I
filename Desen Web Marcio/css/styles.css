@@ -34,7 +34,7 @@ nav.topo {
 
 header {
     height: 200px;
-    background-color: slateblue;
+    background-color: deepskyblue;
 }
 
 nav.superior {
@@ -80,6 +80,8 @@ footer {
 
 .logo {
     width: 150px;
+    padding-left: 40%;
+    padding-top: 15px; 
 }
 
 /* nav vertical inicio */

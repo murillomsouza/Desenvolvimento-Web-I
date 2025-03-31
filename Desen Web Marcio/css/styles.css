@@ -1,3 +1,6 @@
+/*n Icones boostrap*/
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
 /*n Fontes do Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Boldonse&display=swap');
 
@@ -5,8 +8,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-/*n Icones boostrap*/
-@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
 @font-face {
     font-family: "karma_arcade";
@@ -231,6 +232,7 @@ nav.topo .active {
 
 /* nav topo fim */
 
+/* tabela */
 table.tabela {
     border: 1px solid #000;
     border-collapse: collapse;
@@ -246,6 +248,7 @@ table.tabela td {
 table.tabela tr:nth-child(even) {
     background-color: #d2d2d2;
 }
+
 table.tabela th {
     background-color: #4CAF50;
     color: #fff;
